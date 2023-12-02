@@ -1,4 +1,4 @@
-![image](https://github.com/vaghmarelazy/vaghmarelazy/assets/100845862/e9f22fb6-f072-4cb8-9019-417796ae09ad)### Hi there 👋
+### Hi there 👋
 
 #About ME 
 - 🌱 I'm currently learning Web-Development
