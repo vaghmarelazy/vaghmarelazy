@@ -6,8 +6,10 @@
   About ME
 </h2>
 - 🌱 I'm currently learning Web-Development ( JavaScript )
-
-
+<h2>💬 Ask me about ...</h2>
+Web-dev, Python
+<!-- <h2>📫 How to reach me: ...</h2>
+<a href =""></a> -->
 <h1>Tech Stack</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
