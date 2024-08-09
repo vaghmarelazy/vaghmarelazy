@@ -5,7 +5,7 @@
 <h2>
   About ME
 </h2>
-- 🌱 I'm currently learning Data Structures and Algorthms and MERN stack Development <br/>
+- 🌱 I'm currently learning Data Structures and Algorthms and Next Js <br/>
 - 🔭 I’m currently working on Some projects <br/>
 - 😄 Pronouns: Rupesh Vaghmare, Lazy. <br/>
 <h2>💬 Ask me about ...</h2>
