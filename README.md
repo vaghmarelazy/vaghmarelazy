@@ -6,7 +6,7 @@
   About ME
 </h2>
 - 🌱 I'm currently learning and Applying <br/>
-- 🔭 I’m currently working on Dive Deeper Project you can check on my repo <br/>
+- 🔭 I’m currently working on Dive Deeper Project you can check on my repos <br/>
 - 😄 Pronouns: Rupesh Vaghmare, Lazy. <br/>
 <h2>💬 Ask me about ...</h2>
 React, Front-end
@@ -21,7 +21,7 @@ React, Front-end
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python3" alt="Python3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="NexttJs" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="NexttJs" alt="react" width="40" height="40"/>&nbsp;
   
 </div>
 
