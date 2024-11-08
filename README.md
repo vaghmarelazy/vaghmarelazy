@@ -5,8 +5,8 @@
 <h2>
   About ME
 </h2>
-- 🌱 I'm currently learning and Applying <br/>
-- 🔭 I’m currently working on Dive Deeper Project you can check on my repos <br/>
+- 🌱 I'm currently learning Data Structures and Algorithms <br/>
+- 🔭 I’m currently working on some projects <br/>
 - 😄 Pronouns: Rupesh Vaghmare, Lazy. <br/>
 <h2>💬 Ask me about ...</h2>
 React, Front-end
