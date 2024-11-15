@@ -31,7 +31,6 @@ I'm self-tought Developer from India 🇮🇳
 <code><img height='30' src="./assets/vercel.svg" alt="Vercel"></code>
 <code><img height='30' src="./assets/netlify.svg" alt="Netlify"></code>
 <code><img height='30' src="./assets/postman.svg" alt="Postman"></code>
-<code><img height='30' src="./assets/postman.svg" alt="Postman"></code>
 
 <!-- <code><img height='20' src=""></code> -->
 
