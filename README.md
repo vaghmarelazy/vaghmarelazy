@@ -13,7 +13,7 @@ I'm self-tought Developer from India 🇮🇳
 - 🌱 I'm currently learning Data Structures and Algorithms <br/>
 - 🔭 I’m currently working on some projects <br/>
 - ❤️ I Love building things <br/>
-- 📫 Connect with me [here](https://www.instagram.com/lazy_developer/)
+- 📫 Connect with me <a href="https://www.instagram.com/lazy_developer/" target="_blank">Here</a>
 
 **Tech stack**</br>
 
