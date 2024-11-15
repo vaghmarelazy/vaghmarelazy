@@ -17,20 +17,22 @@ I'm self-tought Developer from India 🇮🇳
 
 **Tech stack**</br>
 
-<code><img height='30' src="./assets/html.svg"></code>
-<code><img height='30' src="./assets/css.svg"></code>
-<code><img height='30' src="./assets/js.svg"></code>
-<code><img height='30' src="./assets/mongoDB.svg"></code>
-<code><img height='30' src="./assets/express.svg"></code>
-<code><img height='30' src="./assets/react.svg"></code>
-<code><img height='30' src="./assets/node.svg"></code>
-<code><img height='30' src="./assets/java.svg"></code>
-<code><img height='30' src="./assets/python.svg"></code>
-<code><img height='30' src="./assets/next.svg"></code>
-<code><img height='30' src="./assets/tailwind.svg"></code>
-<code><img height='30' src="./assets/vercel.svg"></code>
-<code><img height='30' src="./assets/netlify.svg"></code>
-<code><img height='30' src="./assets/postman.svg"></code>
+<code><img height='30' src="./assets/html.svg" alt="HTML"></code>
+<code><img height='30' src="./assets/css.svg" alt="CSS"></code>
+<code><img height='30' src="./assets/js.svg" alt="JavaScript"></code>
+<code><img height='30' src="./assets/mongoDB.svg" alt="MongoDB"></code>
+<code><img height='30' src="./assets/express.svg" alt="Express"></code>
+<code><img height='30' src="./assets/react.svg" alt="React"></code>
+<code><img height='30' src="./assets/node.svg" alt="Node"></code>
+<code><img height='30' src="./assets/java.svg" alt="Java"></code>
+<code><img height='30' src="./assets/python.svg" alt="Python"></code>
+<code><img height='30' src="./assets/next.svg" alt="Next"></code>
+<code><img height='30' src="./assets/tailwind.svg" alt="Tailwind"></code>
+<code><img height='30' src="./assets/vercel.svg" alt="Vercel"></code>
+<code><img height='30' src="./assets/netlify.svg" alt="Netlify"></code>
+<code><img height='30' src="./assets/postman.svg" alt="Postman"></code>
+<code><img height='30' src="./assets/postman.svg" alt="Postman"></code>
+
 <!-- <code><img height='20' src=""></code> -->
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&count_private=true)" alt="vaghmarelazy's github stats"></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Vaghmarelazy's language used"></a> |
