@@ -40,7 +40,7 @@ I'm self-tought Developer from India 🇮🇳
 
 
 
-<div align="center" width="full">
+<div  width="full">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t34mgo6y632q6gqriskfpij3ra&count=1)
 
