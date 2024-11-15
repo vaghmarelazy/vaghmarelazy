@@ -27,6 +27,8 @@ React, Front-end
 
 ![vaghmarelazy's Stats](https://github-readme-stats.vercel.app/api?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
+![vaghmarelazy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 <!--
 **vaghmarelazy/vaghmarelazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
