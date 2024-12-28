@@ -41,11 +41,7 @@ I'm self-tought Developer from India 🇮🇳
 
 
 
-<div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t34mgo6y632q6gqriskfpij3ra&count=1)
-
-</div>
 <!--
 **vaghmarelazy/vaghmarelazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
