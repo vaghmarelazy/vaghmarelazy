@@ -13,7 +13,7 @@ I'm self-tought Developer from India 🇮🇳
 - 🌱 I'm currently learning Data Structures and Algorithms <br/>
 - 🔭 I’m currently working on some projects <br/>
 - ❤️ I Love building things <br/>
-- 📫 Connect with me <a href="https://www.instagram.com/lazy_developer/" target="_blank">Here</a>
+- Feel free to reach me for any kind of discussion about any kind of projects, i would love to ;)
 
 **Tech stack**</br>
 
@@ -37,7 +37,7 @@ I'm self-tought Developer from India 🇮🇳
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&count_private=true)" alt="vaghmarelazy's github stats"></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Vaghmarelazy's language used"></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)-->
 
 
 
