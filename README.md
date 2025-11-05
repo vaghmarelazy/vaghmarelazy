@@ -1,19 +1,14 @@
-<h2 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></br>
-  
-  ![](https://komarev.com/ghpvc/?username=vaghmarelazy&color=blueviolet)
 
-</h2>
+🚀 Full-Stack Developer | Building user-centric solutions with TypeScript, React & Kotlin
 
-I'm Software Developer from Bhopal, Madhya Pradesh
+💡 Specialized in:
+- Anonymous messaging platforms & real-time applications
+- Android productivity apps (Pomodoro, Focus tools)
+- Interactive web experiences with modern React
 
-**About me**
-
-- 🌱 I'm currently learning Data Structures and Algorithms <br/>
-- 🔭 I’m currently working on some projects <br/>
-- ❤️ I Love building things <br/>
-- Feel free to reach me for any kind of discussion about any kind of projects, i would love to ;)
+🔧 Tech Stack: TypeScript | JavaScript | React | Kotlin | Node.js </br>
+📍 Based in Bhopal, MP | Open to remote opportunities </br>
+🌱 Currently mastering: Data Structures & Algorithms
 
 ## 🎯 Featured Projects
 
@@ -26,7 +21,8 @@ I'm Software Developer from Bhopal, Madhya Pradesh
 - Native Kotlin development
 - Helps developers maintain productivity
 
-**Tech stack**</br>
+<!--
+## 🧑‍💻 Tech Stack (Expended)
 
 <code><img height='30' src="./assets/html.svg" alt="HTML"></code>
 <code><img height='30' src="./assets/css.svg" alt="CSS"></code>
