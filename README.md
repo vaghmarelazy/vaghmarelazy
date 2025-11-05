@@ -15,6 +15,13 @@ I'm Software Developer from Bhopal, Madhya Pradesh
 - ❤️ I Love building things <br/>
 - Feel free to reach me for any kind of discussion about any kind of projects, i would love to ;)
 
+## 🎯 Featured Projects
+
+**[Mystry Messages](https://github.com/vaghmarelazy/Mystry-messages)** - Anonymous feedback platform
+- Built with TypeScript & Next.js
+- Real-time message handling
+- 🔥 [Live Demo](https://mystry-messages-delta.vercel.app/)
+
 **Tech stack**</br>
 
 <code><img height='30' src="./assets/html.svg" alt="HTML"></code>
