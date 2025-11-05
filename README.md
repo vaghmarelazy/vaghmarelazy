@@ -22,6 +22,10 @@ I'm Software Developer from Bhopal, Madhya Pradesh
 - Real-time message handling
 - 🔥 [Live Demo](https://mystry-messages-delta.vercel.app/)
 
+**[FocusFlow](https://github.com/vaghmarelazy/FocusFlow)** - Pomodoro Android App
+- Native Kotlin development
+- Helps developers maintain productivity
+
 **Tech stack**</br>
 
 <code><img height='30' src="./assets/html.svg" alt="HTML"></code>
@@ -40,10 +44,15 @@ I'm Software Developer from Bhopal, Madhya Pradesh
 <code><img height='30' src="./assets/postman.svg" alt="Postman"></code>
 
 <!-- <code><img height='20' src=""></code> -->
-
+## 📊 GitHub Stats
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&count_private=true)" alt="vaghmarelazy's github stats"></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Vaghmarelazy's language used"></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+
+## 🤝 Let's Connect
+- 💼 LinkedIn: [linkedin.com/in/lazy-developer](linkedin.com/in/lazy-developer)
+- 📧 Email: [rupeshvaghmare1@gmail.com](mailto:rupeshvaghmare1@gmail.com)
+- 🌐 Portfolio: [thelazydeveloper.netlify.app](https://thelazydeveloper.netlify.app/)
 <!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)-->
 
 
