@@ -6,7 +6,7 @@
 
 </h2>
 
-I'm self-tought Developer from Bhopal, Madhya Pradesh
+I'm Software Developer from Bhopal, Madhya Pradesh
 
 **About me**
 
