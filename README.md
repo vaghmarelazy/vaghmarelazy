@@ -1,25 +1,17 @@
 
-🚀 Full-Stack Developer | Building user-centric solutions with TypeScript, React & Kotlin
-
-💡 Specialized in:
-- Anonymous messaging platforms & real-time applications
-- Android productivity apps (Pomodoro, Focus tools)
-- Interactive web experiences with modern React
-
-🔧 Tech Stack: TypeScript | JavaScript | React | Kotlin | Node.js </br>
-📍 Based in Bhopal, MP | Open to remote opportunities </br>
-🌱 Currently mastering: Data Structures & Algorithms
+🚀 Full-Stack Developer | I build production ready Softwares
 
 ## 🎯 Featured Projects
+
+**GymFlow** - Gym Management Software
+- Built with  Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Tailwind CSS, REST APIs, Cloudinary
+- Helps Gym Owners to handle day-to-day tasks, and save time and money.
+- 🔥 [Live Demo](https://gymfloww.in/)
 
 **[Mystry Messages](https://github.com/vaghmarelazy/Mystry-messages)** - Anonymous feedback platform
 - Built with TypeScript & Next.js
 - Real-time message handling
 - 🔥 [Live Demo](https://mystry-messages-delta.vercel.app/)
-
-**[FocusFlow](https://github.com/vaghmarelazy/FocusFlow)** - Pomodoro Android App
-- Native Kotlin development
-- Helps developers maintain productivity
 
 <!--
 ## 🧑‍💻 Tech Stack (Expended)
