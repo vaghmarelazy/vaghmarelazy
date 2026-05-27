@@ -31,10 +31,6 @@
 <code><img height='30' src="./assets/netlify.svg" alt="Netlify"></code>
 <code><img height='30' src="./assets/postman.svg" alt="Postman"></code>
 
-<!-- <code><img height='20' src=""></code> -->
-## 📊 GitHub Stats
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&count_private=true)" alt="vaghmarelazy's github stats"></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghmarelazy&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Vaghmarelazy's language used"></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 ## 🤝 Let's Connect
